@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is [Tu Nombre]
+# 👋 Hi there, my name is Julio Cesar Ayala Lopez
 
 I'm a **Full Stack Developer** with over 10 years of experience delivering high-quality software solutions and driving business value. I specialize in web development, cloud computing, and database design, with a proven ability to thrive in collaborative and independent environments.
 
@@ -52,10 +52,10 @@ Havana Technological Institute (ISPJAE) | Havana, Cuba | July 2012
 
 ## 📫 Find me at:
 
-**Website:** [tuweb.com](https://tuweb.com)  
-**LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-**GitHub:** [github.com/tuusuario](https://github.com/tuusuario)  
-**Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
+**Website:** [tuweb.com](https://julioayalalopez89.github.io)  
+**LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/julio-césar-ayala-lopez-b516a8b0)  
+**GitHub:** [github.com/tuusuario](https://github.com/julioayalalopez89)  
+**X:** [@tuusuario](https://twitter.com/tuusuario)  
 
 ---
 
