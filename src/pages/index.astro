@@ -174,36 +174,4 @@ import Title from "../components/Title.astro";
 		}
 	}
 
-header {
-	z-index: 999;
-	position: relative;
-}
-
-.about {
-	position: relative;
-	overflow: hidden; /* evita que el modelo se salga */
-}
-
-.model-wrapper {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 1; /* debajo del contenido */
-	pointer-events: none; /* evita que interfiera con clicks */
-}
-
-.model3d {
-	width: 100%;
-	height: 100%;
-	object-fit: contain;
-}
-
-.about > article,
-.about > button {
-	position: relative;
-	z-index: 2; /* por encima del modelo */
-}
-
 </style>
