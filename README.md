@@ -1,16 +1,28 @@
 # 👋 Hi there, my name is Julio Cesar Ayala Lopez
 
-I'm a **Full Stack Developer** with over 10 years of experience delivering high-quality software solutions and driving business value. I specialize in web development, cloud computing, and database design, with a proven ability to thrive in collaborative and independent environments.
+I'm a **Full Stack Developer** with over 10 years of experience delivering high-quality software solutions and driving business value. I specialize in web development, cloud computing, and database design, thriving in both collaborative and independent environments.
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming:** C#, .NET Core, Angular, React, AngularJS, JavaScript, Entity Framework, ASP.NET, MVC .NET, jQuery, AJAX, XML, HTML, CSS  
-**Cloud Computing:** Microsoft Azure (PaaS & IaaS), Azure Web Apps, Azure Functions, SQL Azure, Storage  
-**Software:** Visual Studio, VS Code, SSMS, SSRS, SSIS, SSAS, Azure DevOps, Git, TFS, T-SQL, SQL  
-**Development:** Object-Oriented Design (OOD), Domain-Driven Design (DDD), Microservices  
-**Database:** Database & Data Warehouse Design, Project Management, Technical Documentation, Quality Assurance  
+**Programming:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Cloud & Tools:**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+
+**Development:**  
+![OOP](https://img.shields.io/badge/OOD-00A1F1?style=for-the-badge) 
+![DDD](https://img.shields.io/badge/DDD-FF6F61?style=for-the-badge) 
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge)  
 
 ---
 
@@ -52,9 +64,9 @@ Havana Technological Institute (ISPJAE) | Havana, Cuba | July 2012
 
 ## 📫 Find me at:
 
-**Website:** [tuweb.com](https://julioayalalopez89.github.io)  
-**LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/julio-césar-ayala-lopez-b516a8b0)  
-**GitHub:** [github.com/tuusuario](https://github.com/julioayalalopez89)  
+**Website:** [julioayalalopez89.github.io](https://julioayalalopez89.github.io)  
+**LinkedIn:** [Julio Cesar Ayala Lopez](https://www.linkedin.com/in/julio-césar-ayala-lopez-b516a8b0)  
+**GitHub:** [julioayalalopez89](https://github.com/julioayalalopez89)  
 **X:** [@tuusuario](https://twitter.com/tuusuario)  
 
 ---
